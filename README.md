@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is **Beryl** <br> I *love* studying things that piqued my interest <br> Currently I'm studying in ITS Surabaya as a student of Computer Engineering
+My name is **Beryl**  <br> Currently I'm studying in ITS Surabaya as a student of Computer Engineering
 
 <p align="left">
 <a href="https://github.com/Abyanaka">
